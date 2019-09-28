@@ -1,0 +1,6 @@
+owner=570015453376806936
+prefix=1
+game=Music..
+stayinchannel=true
+songinstatus=false
+token=NjI3NTE3ODQ1MDY4MDU0NTM5.XY9zpw.FEdzgdf51foaEErCvUTPNYO2T0k
